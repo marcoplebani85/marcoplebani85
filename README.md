@@ -1,4 +1,4 @@
-- Hi, I’m @marcoplebani85
+- Hi, I’m Marco Plebani.
 - I’m interested in ecology, pollination biology, data analysis, data visualization.
 - 📫 www.marcoplebani.com
 
